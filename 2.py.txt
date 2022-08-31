@@ -1,0 +1,4 @@
+consumer_key = 'xxxxxxxxxxxxxxx'
+consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxx'
